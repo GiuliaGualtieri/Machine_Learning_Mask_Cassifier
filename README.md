@@ -19,5 +19,5 @@ To test the model, run* main.py program on your PC.
 my contact:
   *giulia.gualtieri@mail.polimi.it
 
-I'm a Data Analyst, very passionate to data. 
-Contact me if you want to share a challenge with me! It would be very glad to me having the possibility to find out something new about the amazing world of Data. 
+I'm a Data Analyst, very passionate to the amazing world of Data.
+Contact me if you want to share a challenge with me! It would be a great chance for me to discover something new.
