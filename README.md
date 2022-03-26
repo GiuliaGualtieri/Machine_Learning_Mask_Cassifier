@@ -10,7 +10,7 @@ The Pipeline of the model is very simple:
 
 For training the model it has been chosen a train-test-split, with test size of 0.20 of the total number of sample (50K with mask, 50K no mask).
 
-The choice of the model was selected by comparing 5 differents models on 5folds-CV of the entire dataset. The models compared are:  
+The choice of the model was selected by comparing 5 differents models on 5folds-CV of the training set. The models compared are:  
 -GradientBoost: GradientBoostingClassifier() with n_estimators=50;  
 -RandomForest:  RandomForestClassifier() with n_estimators=100;  
 -NaiveBayes: GaussianNB();  
