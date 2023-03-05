@@ -45,14 +45,11 @@ tests = [
 dev = [
   "joblib",
   "numpy",
-  "opencv-python==4.5.5.62",
+  "opencv-python",
   "Pillow",
-  "scikit-learn==1.0.2",
-  "scipy==1.7.3"
-  "threadpoolctl==3.0.0",
-  "numpy",
-  "pandas",
-  "torch",
+  "scikit-learn",
+  "scipy"
+  "threadpoolctl",
 ]
 
 [tool.hatch.envs.quality]

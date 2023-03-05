@@ -1,16 +1,17 @@
 from setuptools import setup
 
 setup(
-    name='french_exercises',
+    name='machine_learning_mask_classifier',
     version='0.0.1',
     packages=find_packages(),
     description='Python repository to do practice in french',
-    license='MIT',
+    license='GPL-3.0 license',
     install_requires=[
-        'torch',
-        'transformers',
-        'pandas',
-        'numpy',
-        'random',
-    ],
+    "joblib",
+    "numpy",
+    "opencv-python",
+    "Pillow",
+    "scikit-learn",
+    "scipy"
+    "threadpoolctl"],
 )
